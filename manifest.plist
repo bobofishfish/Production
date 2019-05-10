@@ -11,8 +11,8 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<!-- 需要安装的ipa包在服务器的路径 -->
-					<string>http://fishd.sdgaming.net/FishingFortune.ipa</string>
+					<!-- 闇�瑕佸畨瑁呯殑ipa鍖呭湪鏈嶅姟鍣ㄧ殑璺緞 -->
+					<string>47.89.12.59/apk/QubeFishing/FishingFortune(GameRoom)1.0.13.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<!-- 安装时需要显示的大图标（1024*1024）在服务器的路径 -->
+					<!-- 瀹夎鏃堕渶瑕佹樉绀虹殑澶у浘鏍囷紙1024*1024锛夊湪鏈嶅姟鍣ㄧ殑璺緞 -->
 					<string>http://47.89.12.59/release/FishingFortune(GameRoom)/1.0.13/icon1024.png</string>
 				</dict>
 				<dict>
@@ -29,7 +29,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<!-- 安装时需要显示的小图标（180*180）在服务器的路径 -->
+					<!-- 瀹夎鏃堕渶瑕佹樉绀虹殑灏忓浘鏍囷紙180*180锛夊湪鏈嶅姟鍣ㄧ殑璺緞 -->
 					<string>http://47.89.12.59/release/FishingFortune(GameRoom)/1.0.13/icon180.png</string>
 				</dict>
 			</array>
